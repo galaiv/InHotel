@@ -186,11 +186,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "In Hotel/Chat.m"
-            timestampString = "456345178.4832"
+            timestampString = "488388224.308764"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "331"
-            endingLineNumber = "331"
+            startingLineNumber = "329"
+            endingLineNumber = "329"
             landmarkName = "-completedWithResult:"
             landmarkType = "5">
          </BreakpointContent>
@@ -394,11 +394,11 @@
                   moduleName = "In Hotel"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/newagesmb/Desktop/ArunM/In%20Hotel/In%20Hotel/SignUp.m"
-                  timestampString = "460903693.154186"
+                  timestampString = "493569603.848903"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "266"
-                  endingLineNumber = "266"
+                  startingLineNumber = "284"
+                  endingLineNumber = "284"
                   offsetFromSymbolStart = "2892">
                </Location>
                <Location
@@ -409,11 +409,11 @@
                   moduleName = "In Hotel"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/newagesmb/Desktop/ArunM/In%20Hotel/In%20Hotel/SignUp.m"
-                  timestampString = "460903693.15432"
+                  timestampString = "493569603.849017"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "266"
-                  endingLineNumber = "266"
+                  startingLineNumber = "284"
+                  endingLineNumber = "284"
                   offsetFromSymbolStart = "76">
                </Location>
             </Locations>
@@ -442,7 +442,7 @@
                   moduleName = "In Hotel"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/newagesmb/Desktop/ArunM/In%20Hotel/In%20Hotel/ViewController.m"
-                  timestampString = "460903693.154988"
+                  timestampString = "493569603.849621"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "179"
@@ -457,7 +457,7 @@
                   moduleName = "In Hotel"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/newagesmb/Desktop/ArunM/In%20Hotel/In%20Hotel/ViewController.m"
-                  timestampString = "460903693.155128"
+                  timestampString = "493569603.849732"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "179"
@@ -762,7 +762,7 @@
                   moduleName = "In Hotel"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/newagesmb/Desktop/ArunM/In%20Hotel/In%20Hotel/Conversation.m"
-                  timestampString = "460903693.160508"
+                  timestampString = "493569603.857661"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1243"
@@ -777,7 +777,7 @@
                   moduleName = "In Hotel"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/newagesmb/Desktop/ArunM/In%20Hotel/In%20Hotel/Conversation.m"
-                  timestampString = "460903693.160643"
+                  timestampString = "493569603.857771"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1243"
@@ -842,7 +842,7 @@
                   moduleName = "In Hotel"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/newagesmb/Desktop/ArunM/In%20Hotel/In%20Hotel/ViewController.m"
-                  timestampString = "460903693.161945"
+                  timestampString = "493569603.859213"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "257"
@@ -857,7 +857,7 @@
                   moduleName = "In Hotel"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/newagesmb/Desktop/ArunM/In%20Hotel/In%20Hotel/ViewController.m"
-                  timestampString = "460903693.162092"
+                  timestampString = "493569603.859329"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "257"
@@ -970,7 +970,7 @@
                   moduleName = "In Hotel"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/newagesmb/Desktop/ArunM/In%20Hotel/In%20Hotel/Conversation.m"
-                  timestampString = "460903693.164288"
+                  timestampString = "493569603.862091"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "685"
@@ -985,7 +985,7 @@
                   moduleName = "In Hotel"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/newagesmb/Desktop/ArunM/In%20Hotel/In%20Hotel/Conversation.m"
-                  timestampString = "460903693.164433"
+                  timestampString = "493569603.862201"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "685"
@@ -1114,11 +1114,11 @@
                   moduleName = "In Hotel"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/newagesmb/Desktop/ArunM/In%20Hotel/In%20Hotel/SignUp.m"
-                  timestampString = "460903693.166835"
+                  timestampString = "493569603.865418"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "278"
-                  endingLineNumber = "278"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
                   offsetFromSymbolStart = "90">
                </Location>
                <Location
@@ -1129,11 +1129,11 @@
                   moduleName = "In Hotel"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/newagesmb/Desktop/ArunM/In%20Hotel/In%20Hotel/SignUp.m"
-                  timestampString = "460903693.166976"
+                  timestampString = "493569603.865537"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "278"
-                  endingLineNumber = "278"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
                   offsetFromSymbolStart = "44">
                </Location>
             </Locations>
@@ -1162,11 +1162,11 @@
                   moduleName = "In Hotel"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/newagesmb/Desktop/ArunM/In%20Hotel/In%20Hotel/SignUp.m"
-                  timestampString = "460903693.167646"
+                  timestampString = "493569603.866257"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "282"
-                  endingLineNumber = "282"
+                  startingLineNumber = "300"
+                  endingLineNumber = "300"
                   offsetFromSymbolStart = "48">
                </Location>
                <Location
@@ -1177,11 +1177,11 @@
                   moduleName = "In Hotel"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/newagesmb/Desktop/ArunM/In%20Hotel/In%20Hotel/SignUp.m"
-                  timestampString = "460903693.167789"
+                  timestampString = "493569603.866366"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "282"
-                  endingLineNumber = "282"
+                  startingLineNumber = "300"
+                  endingLineNumber = "300"
                   offsetFromSymbolStart = "26">
                </Location>
             </Locations>
@@ -1328,6 +1328,22 @@
             startingLineNumber = "171"
             endingLineNumber = "171"
             landmarkName = "-scrollViewDidScroll:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "In Hotel/AppDelegate.m"
+            timestampString = "493569588.467748"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "250"
+            endingLineNumber = "250"
+            landmarkName = "-application:didRegisterForRemoteNotificationsWithDeviceToken:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
